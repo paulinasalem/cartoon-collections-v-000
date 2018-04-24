@@ -14,7 +14,7 @@ else
   false
 end
 end
-def find_the_cheese# code an argument here
-  # the array below is here to help
+def find_the_cheese(array_strings)
+  array_strings.find?(cheese_types)
   cheese_types = ["cheddar", "gouda", "camembert"]
 end
