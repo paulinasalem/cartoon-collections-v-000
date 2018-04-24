@@ -13,7 +13,7 @@ if array_calls.include?(array_calls.length==4)
 else
   false
 end
-
+end
 def find_the_cheese# code an argument here
   # the array below is here to help
   cheese_types = ["cheddar", "gouda", "camembert"]
