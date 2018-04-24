@@ -8,7 +8,7 @@ def summon_captain_planet(planeteer_calls)
 
 end
 def long_planeteer_calls(array_calls)
-if array_calls.include?(array_calls.length==4)
+if array_calls.include?(array_calls.length==4||array_calls.length>4)
   true
 else
   false
