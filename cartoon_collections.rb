@@ -20,3 +20,4 @@ def find_the_cheese(array_strings)
 if cheese_types.include?(element) == true
   return element
 end
+end
