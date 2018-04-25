@@ -19,5 +19,7 @@ def find_the_cheese(array_strings)
   array_strings.find |element|
 if cheese_types.include?(element) == true
   return element
+else
+  false
 end
 end
