@@ -19,3 +19,4 @@ def find_the_cheese(array_strings)
   array_strings.each do |cheese|
     cheese.find(cheese_types)
 end
+end
